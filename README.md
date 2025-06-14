@@ -1,10 +1,16 @@
-# Simple LanGraph Example
+# Simple LangGraph Example
 
-A minimal, visual example demonstrating the core concepts of LanGraph: state, nodes, and edges.
+A minimal, visual example demonstrating the core concepts of LangGraph: nodes and edges. Visit [lastmileagents.com](https://lastmileagents.com) to visualize and learn how it works.
 
-## What is LanGraph?
+## What is LangGraph?
 
-LanGraph is a framework for building stateful, multi-step applications. It allows you to create workflows by connecting nodes (processing units) with edges (connections) while maintaining state throughout the process.
+LangGraph is a framework for building stateful, multi-step applications with language models. It enables you to create intelligent agents that can:
+- Break down complex tasks into manageable steps
+- Maintain context and state throughout a conversation
+- Make decisions based on accumulated information
+- Follow structured workflows while remaining flexible
+
+By connecting nodes (processing units) with edges (connections), LangGraph allows you to build sophisticated agent workflows that can handle complex tasks while maintaining a clear, traceable execution path.
 
 ## Core Concepts
 
@@ -97,7 +103,7 @@ This simple linear pattern is best for:
 - Straightforward, sequential processes
 - Clear, predictable workflows
 - Simple state transformations
-- Learning and understanding LanGraph basics
+- Learning and understanding LangGraph basics
 
 ## How to Run
 
